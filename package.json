@@ -8,7 +8,8 @@
     "build": "yarn build:webpack && yarn build:server",
     "start": "cross-env NODE_ENV=development nodemon server/index.js --mode development",
     "lint:css": "stylelint js/",
-    "prepare": "cd .. && husky install web/.husky"
+    "prepare": "cd .. && husky install web/.husky",
+    "test": "yarn jest"
   },
   "dependencies": {
     "@loadable/component": "^5.14.1",

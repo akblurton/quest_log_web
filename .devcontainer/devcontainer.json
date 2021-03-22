@@ -15,7 +15,8 @@
 	"esbenp.prettier-vscode",
 	"dbaeumer.vscode-eslint",
 	"orta.vscode-jest",
-	"stylelint.vscode-stylelint"
+	"stylelint.vscode-stylelint",
+	"sleistner.vscode-fileutils"
 ],
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   "forwardPorts": [3000],
