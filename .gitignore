@@ -1,0 +1,13 @@
+/dist/
+/lib/
+
+# Cache files
+.eslintcache
+.stylelintcache
+
+# yarn/npm
+yarn-error.log
+
+.env
+
+node_modules/

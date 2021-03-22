@@ -1,0 +1,44 @@
+<svg  width="143.36" height="143.36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" display="block">
+    <defs>
+        <pattern id="b" x="0" y="0" width="143.36" height="143.36" patternUnits="userSpaceOnUse">
+              <animate attributeType="XML" attributeName="y" values="0;-143.36" dur="1s" repeatCount="indefinite" />
+            <g transform="scale(.56)" class="mover">
+                <defs>
+                    <g id="a">
+                        <path d="M74.3 30.4c-3.8-.3-7.3.5-10.4 2.1-.8.4-1.6.6-2.5.6H38.6c-.9 0-1.7-.2-2.5-.6-3.1-1.6-6.6-2.4-10.4-2.1-10.2.7-18.3 9.5-18.2 19.7.1 10.8 8.9 19.5 19.7 19.5 5.5 0 10.5-2.3 14.1-5.9 1.1-1.1 2.6-1.7 4.1-1.7h9.4c1.5 0 3 .6 4.1 1.7 3.6 3.7 8.5 5.9 14.1 5.9 10.8 0 19.6-8.7 19.7-19.5-.1-10.2-8.2-19-18.4-19.7z" data-fill="c1" fill="#333"/>
+                        <path d="M35.7 47.4h-6v-6c0-.6-.5-1.1-1.1-1.1h-2.9c-.6 0-1.1.5-1.1 1.1v6h-6c-.6 0-1.1.5-1.1 1.1v2.9c0 .6.5 1.1 1.1 1.1h6v6c0 .6.5 1.1 1.1 1.1h2.9c.6 0 1.1-.5 1.1-1.1v-6h6c.6 0 1.1-.5 1.1-1.1v-2.9c.1-.6-.4-1.1-1.1-1.1z" data-fill="c2" fill="#e0e0e0"/>
+                        <circle cx="72.8" cy="58" r="3.4" data-fill="c3" fill="#f8b26a"/>
+                        <circle cx="80.8" cy="50" r="3.4" data-fill="c4" fill="#77a4bd"/>
+                        <circle cx="72.8" cy="42" r="3.4" data-fill="c5" fill="#849b87"/>
+                        <circle cx="64.8" cy="50" r="3.4" data-fill="c6" fill="#f47e60"/>
+                    </g>
+                </defs>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 -192 64)" data-idx="0"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 64 64)" data-idx="0"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 320 64)" data-idx="0"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 -192 -64)" data-idx="1"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 64 -64)" data-idx="1"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 320 -64)" data-idx="1"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 -320 -64)" data-idx="2"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 -64 -64)" data-idx="2"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 192 -64)" data-idx="2"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 -320 64)" data-idx="3"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 -64 64)" data-idx="3"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 192 64)" data-idx="3"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 -192 320)" data-idx="0"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 64 320)" data-idx="0"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 320 320)" data-idx="0"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 -192 192)" data-idx="1"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 64 192)" data-idx="1"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 320 192)" data-idx="1"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 -320 192)" data-idx="2"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 -64 192)" data-idx="2"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.8 0 0 .8 192 192)" data-idx="2"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 -320 320)" data-idx="3"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 -64 320)" data-idx="3"/>
+                <use xlink:href="#a" x="-50" y="-50" transform="matrix(.5 0 0 .5 192 320)" data-idx="3"/>
+            </g>
+        </pattern>
+    </defs>
+    <path fill="url(#b)" d="M0 0h1084v322H0z" width="100%" height="100%"/>
+</svg>

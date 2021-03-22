@@ -1,0 +1,7 @@
+FROM node:15.12
+WORKDIR /app
+RUN apt-get update && apt-get install zsh -y
+RUN sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+ENV SHELL /bin/zsh
+EXPOSE 3000
+CMD "/bin/zsh"

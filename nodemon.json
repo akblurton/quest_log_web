@@ -1,0 +1,7 @@
+{
+  "ignore": ["src/", "assets/", "dist/"],
+  "verbose": true,
+  "execMap": {
+    "js": "babel-node"
+  }
+}

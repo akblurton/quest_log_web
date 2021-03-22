@@ -1,0 +1,15 @@
+query GetEntryList {
+  entries {
+    id
+    title
+  }
+}
+
+query GetEntry($id: ID) {
+  entryById(id: $id) {
+    id
+    title
+    summary
+    insertedAt
+  }
+}
